@@ -18,6 +18,7 @@ Insight can help you with your GitHub Copilot adoption journey. Find out more by
 - [GitHub Copilot Lab in R](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-r) (statistical computing using R)
 - [GitHub Copilot Lab for SQL](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-sql) (database development using Structured Query Language (SQL))
 - [SPA Music Store with GitHub Copilot](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-typescript) (Single Page App with TypeScript, Node & Next.js)
+- [GitHub Copilot Workshop for Front-end developers](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-weather-app-react) (React, Typescript, Javascript, CSS)
 
 ## Visual Studio 2022+
 
