@@ -35,11 +35,12 @@ Insight can help you with your GitHub Copilot adoption journey. Find out more by
 
 ### Data Engineer
 
+- [GitHub Copilot Hackathon for Python Data Engineer](https://github.com/GitHub-Insight-ANZ-Lab/copilot-hackathon-data-engineer-python)
 - [GitHub Copilot Lab for SQL](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-sql) (database development using Structured Query Language (SQL))
 
 ### Data Scientist
 
-- [GitHub Copilot Hackathon in Python](https://github.com/GitHub-Insight-ANZ-Lab/copilot-hackathon-data-engineer-python)
+- [GitHub Copilot Hackathon for Python Data Scientist](https://github.com/GitHub-Insight-ANZ-Lab/copilot-hackathon-data-scientist-python)
 - [GitHub Copilot Lab in R](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-r) (statistical computing using R)
 
 ### DevOps
