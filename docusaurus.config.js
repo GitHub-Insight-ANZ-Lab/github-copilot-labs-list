@@ -11,7 +11,7 @@ const config = {
   title: "GitHub Copilot Labs",
   tagline: "GitHub Copilot Labs",
   url: "https://GitHub-Insight-ANZ-Lab.io/",
-  baseUrl: "/copilot/",
+  baseUrl: "/github-copilot-labs-list/",
 
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
