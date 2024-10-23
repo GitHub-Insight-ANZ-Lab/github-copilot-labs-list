@@ -7,7 +7,7 @@ on:
       - feature/*
   workflow_dispatch:
     
-    # Review gh actions docs if you want to further define triggers, paths
+    # Review gh actions docs if you want to further define triggers
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
 jobs:
