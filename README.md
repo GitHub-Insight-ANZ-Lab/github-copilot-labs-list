@@ -31,6 +31,7 @@ Insight can help you with your GitHub Copilot adoption journey. Find out more by
 ### Full Stack
 
 - [SPA Music Store with GitHub Copilot](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-typescript) (Single Page App with TypeScript, Node & Next.js)
+- [GitHub Copilot Workshop for Front-end developers](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-weather-app-react) (React, Typescript, Javascript, CSS)
 
 ### Data Engineer
 
