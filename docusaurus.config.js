@@ -71,7 +71,7 @@ const config = {
       footer: {
         style: "dark",
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} Copilot Labs.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Insight Enterprises`,
       },
 
       prism: {
