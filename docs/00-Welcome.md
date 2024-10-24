@@ -43,7 +43,7 @@ Happy coding! 💻✨
 
 ### DevOps Engineers
 
-- [GitHub Copilot Hackathon DevOps](https://github.com/GitHub-Insight-ANZ-Lab/copilot-hackathon-devops) (Azure, Terraform, Docker, GitHub Actions)
+- [GitHub Copilot Hackathon for DevOps with Terraform](https://github.com/GitHub-Insight-ANZ-Lab/copilot-hackathon-devops-terraform) (Azure, Terraform, Docker, GitHub Actions)
 
 ### Data Engineers
 
