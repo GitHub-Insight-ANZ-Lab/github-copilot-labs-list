@@ -72,3 +72,5 @@ You can find more information on how to use CodeSpaces here - https://docs.githu
 ### Step 5: Additional Setup
 
 - Follow any additional setup mentioned in the **README** file of the exercise repository.
+
+---
