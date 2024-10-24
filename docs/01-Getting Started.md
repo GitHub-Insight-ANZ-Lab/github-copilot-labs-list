@@ -55,10 +55,9 @@ You can find more information on how to use CodeSpaces here - https://docs.githu
     | **NeoVIM**        | [NeoVIM Extension](https://docs.github.com/en/copilot/getting-started-with-github-copilot?tool=neovim#installing-the-neovim-extension-on-macos)     |
     | **JetBrains IDE** | [JetBrains Extension](https://docs.github.com/en/copilot/getting-started-with-github-copilot?tool=jetbrains#installing-the-github-copilot-extension-in-your-jetbrains-ide) |
 
-
-    :::tip
-    If you encounter issues due to Firewall or VPN restrictions, contact your IT team to whitelist the GitHub Copilot extension. Troubleshooting information can be found [here](https://docs.github.com/en/copilot/troubleshooting-github-copilot/troubleshooting-common-issues-with-github-copilot).
-    :::
+:::tip
+If you encounter issues due to Firewall or VPN restrictions, contact your IT team to whitelist the GitHub Copilot extension. Troubleshooting information can be found [here](https://docs.github.com/en/copilot/troubleshooting-github-copilot/troubleshooting-common-issues-with-github-copilot).
+:::
 
 ### Step 4: Fork and Clone the Repository
 
