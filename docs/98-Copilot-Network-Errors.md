@@ -1,9 +1,17 @@
+---
+title: "Network errors for GitHub Copilot"
+slug: /network-errors
+---
+
 # Troubleshooting network errors for GitHub Copilot
 
 Resolve common errors related to proxies and custom certificates.
 
-> **Who can use this feature?**
+:::tip
+**Who can use this feature?**
+
 GitHub Copilot Individual or GitHub Copilot Business.
+:::
 
 
 If you're working on company equipment and connecting to a corporate network, you may be connecting to the Internet via a VPN or an HTTP proxy server. In some cases, these types of network setups may prevent GitHub Copilot from connecting to GitHub's server. For more information about the options for setting up proxies with GitHub Copilot, see [Configuring network settings for GitHub Copilot](https://docs.github.com/en/copilot/configuring-github-copilot/configuring-network-settings-for-github-copilot).
@@ -39,8 +47,9 @@ If there is a problem with your proxy setup, you may see the following error: Gi
 
 If you know you are connecting via a proxy, make sure the proxy is configured correctly in your environment. For more information, see [Configuring network settings for GitHub Copilot](https://docs.github.com/en/copilot/configuring-github-copilot/configuring-network-settings-for-github-copilot#configuring-proxy-settings-for-github-copilot).
 
-> :bulb: **Note**: 
+:::tip
 If you are an employee of a company with a proxy server, your company must also configure proxy settings for Copilot at the company level. See [Configuring your proxy server or firewall for Copilot](https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/configuring-your-proxy-server-or-firewall-for-copilot).
+:::
 
 GitHub Copilot uses custom code to connect to proxies. This means a proxy setup supported by your editor is not necessarily supported by GitHub Copilot. Some common causes for errors related to proxies are:
 
@@ -70,3 +79,5 @@ Ignoring certificate errors can cause security issues and is not recommended.
 If you or your organization use security software that monitors secure web traffic and you receive an "unable to verify the first certificate" error, you may need to configure an exception for your IDE and/or the copilot extension.
 
 For more information about how to configure an exception, refer to your security software vendor.
+
+---
