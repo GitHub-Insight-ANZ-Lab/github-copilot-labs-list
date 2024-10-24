@@ -94,3 +94,13 @@ body.ko {
 a {
   text-decoration:underline;
 }
+
+[css="accordion"] {
+  background-color: #fbfcfd;
+  border: 1px solid #bad5ef !important;
+  width: 100%;
+}
+
+[css="accordion"] code{
+  background-color: unset;
+}

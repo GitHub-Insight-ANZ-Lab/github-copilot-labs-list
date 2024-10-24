@@ -8,8 +8,8 @@ slug: /keyboard-shortcuts
 GitHub Copilot is a powerful tool that can help you write code faster. It can suggest code completions, generate documentation, and write entire functions.
 To help you get the most out of Copilot, the following is a compiled list of keyboard shortcuts that you can use to interact with Copilot more efficiently.
 
-<details>
-<summary>Visual Studio Code</summary>
+<details css="accordion">
+<summary>**Visual Studio Code**</summary>
 
 The following shortcuts are available for Visual Studio Code:
 
@@ -73,8 +73,8 @@ The following shortcuts are available for Visual Studio Code:
 
 ---
 
-<details>
-<summary>Visual Studio</summary>
+<details css="accordion">
+<summary>**Visual Studio**</summary>
 
 The following shortcuts are available for Visual Studio:
 
@@ -120,8 +120,8 @@ The following shortcuts are available for Visual Studio:
 
 ---
 
-<details>
-<summary>JetBrains IDEs</summary>
+<details css="accordion">
+<summary>**JetBrains IDEs**</summary>
 
 The following shortcuts are available for JetBrains IDEs:
 
