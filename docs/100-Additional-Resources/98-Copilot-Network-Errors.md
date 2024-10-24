@@ -1,16 +1,22 @@
-# Troubleshooting network errors for GitHub Copilot
+---
+title: "Troubleshooting Network errors"
+slug: /network-errors
+---
 
 Resolve common errors related to proxies and custom certificates.
 
-> **Who can use this feature?**
-GitHub Copilot Individual or GitHub Copilot Business.
+:::tip
+**Who can use this feature?**
 
+GitHub Copilot Individual or GitHub Copilot Business.
+:::
 
 If you're working on company equipment and connecting to a corporate network, you may be connecting to the Internet via a VPN or an HTTP proxy server. In some cases, these types of network setups may prevent GitHub Copilot from connecting to GitHub's server. For more information about the options for setting up proxies with GitHub Copilot, see [Configuring network settings for GitHub Copilot](https://docs.github.com/en/copilot/configuring-github-copilot/configuring-network-settings-for-github-copilot).
 
 This article provides guidance for common issues related to HTTP proxies and custom certificates. If you use a firewall, this may also interfere with GitHub Copilot's connection. For more information, see [Troubleshooting firewall settings for GitHub Copilot](https://docs.github.com/en/copilot/troubleshooting-github-copilot/troubleshooting-firewall-settings-for-github-copilot).
 
 ## Diagnosing network issues
+
 If you're troubleshooting network issues, it may help to make `curl` requests to test your connection. If you add the `--verbose` flag, these requests give you more information to diagnose the issue, or to share with your company's IT department or GitHub Support. You can contact GitHub Support through the [GitHub Support portal](https://support.github.com/).
 
 To check if you can access at least some of GitHub's endpoints from your environment, you can run the following command from the command line.
@@ -39,8 +45,9 @@ If there is a problem with your proxy setup, you may see the following error: Gi
 
 If you know you are connecting via a proxy, make sure the proxy is configured correctly in your environment. For more information, see [Configuring network settings for GitHub Copilot](https://docs.github.com/en/copilot/configuring-github-copilot/configuring-network-settings-for-github-copilot#configuring-proxy-settings-for-github-copilot).
 
-> :bulb: **Note**: 
+:::tip
 If you are an employee of a company with a proxy server, your company must also configure proxy settings for Copilot at the company level. See [Configuring your proxy server or firewall for Copilot](https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/configuring-your-proxy-server-or-firewall-for-copilot).
+:::
 
 GitHub Copilot uses custom code to connect to proxies. This means a proxy setup supported by your editor is not necessarily supported by GitHub Copilot. Some common causes for errors related to proxies are:
 
@@ -57,16 +64,18 @@ Some possible ways to resolve certificate-related errors are:
 - Configure a different proxy that does not intercept secure connections.
 - If you are using a corporate proxy, contact your IT department to see if they can configure the proxy to not intercept secure connections.
 - Ensure the custom certificates are properly installed in your operating system's trust store. For more information, see [Configuring network settings for GitHub Copilot](https://docs.github.com/en/copilot/configuring-github-copilot/configuring-network-settings-for-github-copilot#allowing-github-copilot-to-use-custom-certificates). If the certificates are installed on your machine but GitHub Copilot isn't detecting them, it may help you to know the mechanisms that GitHub Copilot uses to find certificates.
-    - On Windows, Copilot uses the [win-ca package](https://www.npmjs.com/package/win-ca).
-    - On macOS, Copilot uses the [mac-ca package](https://www.npmjs.com/package/mac-ca).
-    - On Linux, Copilot checks the standard OpenSSL files `/etc/ssl/certs/ca-certificates.crt` and `/etc/ssl/certs/ca-bundle.crt`.
+  - On Windows, Copilot uses the [win-ca package](https://www.npmjs.com/package/win-ca).
+  - On macOS, Copilot uses the [mac-ca package](https://www.npmjs.com/package/mac-ca).
+  - On Linux, Copilot checks the standard OpenSSL files `/etc/ssl/certs/ca-certificates.crt` and `/etc/ssl/certs/ca-bundle.crt`.
 - Configure GitHub Copilot to ignore certificate errors. In your proxy settings, you can deselect **Proxy Strict SSL** in Visual Studio Code, or select **Accept non-trusted certificates automatically** in a JetBrains IDE. For more information, see [Configuring network settings for GitHub Copilot](https://docs.github.com/en/copilot/configuring-github-copilot/configuring-network-settings-for-github-copilot#configuring-proxy-settings-for-github-copilot).
 
 > **Warning**
-Ignoring certificate errors can cause security issues and is not recommended.
+> Ignoring certificate errors can cause security issues and is not recommended.
 
 ## Troubleshooting security software-related certificate errors
 
 If you or your organization use security software that monitors secure web traffic and you receive an "unable to verify the first certificate" error, you may need to configure an exception for your IDE and/or the copilot extension.
 
 For more information about how to configure an exception, refer to your security software vendor.
+
+---

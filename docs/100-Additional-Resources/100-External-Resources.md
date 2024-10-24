@@ -1,6 +1,6 @@
 ---
-title: "Additional Resources"
-slug: /additional-resources
+title: "External Resources"
+slug: /external-resources
 ---
 
 ## Microsoft Learn
