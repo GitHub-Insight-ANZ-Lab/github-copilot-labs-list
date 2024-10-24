@@ -1,3 +1,8 @@
+---
+title: "Github Copilot Keyboard Shortcuts"
+slug: /keyboard-shortcuts
+---
+
 # Github Copilot Keyboard Shortcuts
 
 GitHub Copilot is a powerful tool that can help you write code faster. It can suggest code completions, generate documentation, and write entire functions.
@@ -156,3 +161,5 @@ The following shortcuts are available for JetBrains IDEs:
 | Windows | `Ctrl + Shift + I` key |
 
 </details>
+
+---
