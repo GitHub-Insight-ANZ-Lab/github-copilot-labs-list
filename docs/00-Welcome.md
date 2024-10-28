@@ -26,14 +26,14 @@ Happy coding! 💻✨
 
 ### Frontend Developers
 
-- [GitHub Copilot Workshop for Front-end developers](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-weather-app-react) (React, Typescript, Javascript, CSS)
+- [GitHub Copilot Lab React Weather App](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-weather-app-react) (React, Typescript, Javascript, CSS)
 
 ### Backend Developers
 
-- [GitHub Copilot Hackathon ASP.NET Minimal API](https://github.com/GitHub-Insight-ANZ-Lab/copilot-hackathon-minimal-api-csharp) (C#, ASP.NET Core)
-- [GitHub Copilot Hackathon Java Spring Boot](https://github.com/GitHub-Insight-ANZ-Lab/copilot-hackathon-java-spring-boot) (Java, Spring Boot)
 - [GitHub Copilot Lab C# Console App](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-csharp-console) (C#, .NET)
 - [GitHub Copilot Lab Node Calculator](https://github.com/GitHub-Insight-ANZ-Lab/copilot-node-calculator) (Node.js)
+- [GitHub Copilot Challenge ASP.NET Minimal API](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-minimal-api-csharp) (C#, ASP.NET Core)
+- [GitHub Copilot Challenge Java Spring Boot](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-java-spring-boot) (Java, Spring Boot)
 
 ### Full Stack Engineers
 
@@ -43,16 +43,17 @@ Happy coding! 💻✨
 
 ### DevOps Engineers
 
-- [GitHub Copilot Hackathon DevOps](https://github.com/GitHub-Insight-ANZ-Lab/copilot-hackathon-devops) (Azure, Terraform, Docker, GitHub Actions)
+- [GitHub Copilot Challenge for DevOps Engineers using Bicep](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-devops-bicep) (Azure, Bicep, Azure DevOps Pipelines)
+- [GitHub Copilot Challenge for DevOps Engineers using Terraform](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-devops-terraform) (Azure, Terraform, Docker, GitHub Actions)
 
 ### Data Engineers
 
-- [GitHub Copilot Hackathon for Python Data Engineer](https://github.com/GitHub-Insight-ANZ-Lab/copilot-hackathon-data-engineer-python) (Python, Jupyter Notebooks)
+- [GitHub Copilot Challenge for Python Data Engineer](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-data-engineer-python) (Python, Jupyter Notebooks)
 - [GitHub Copilot Lab for SQL](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-sql) (SQL Database Development)
 
 ### Data Scientists
 
-- [GitHub Copilot Hackathon for Python Data Scientist](https://github.com/GitHub-Insight-ANZ-Lab/copilot-hackathon-data-scientist-python) (Python, Jupyter Notebooks)
+- [GitHub Copilot Challenge for Python Data Scientist](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-data-scientist-python) (Python, Jupyter Notebooks)
 - [GitHub Copilot Lab in R](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-r) (R for Statistical Computing)
 
 ---
