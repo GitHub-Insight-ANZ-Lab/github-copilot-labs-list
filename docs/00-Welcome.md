@@ -43,8 +43,8 @@ Happy coding! 💻✨
 
 ### DevOps Engineers
 
-- [GitHub Copilot Challenge DevOps Biceps](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-devops-bicep) (Azure, Biceps, Azure DevOps Pipelines)
-- [GitHub Copilot Challenge DevOps](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-devops-terraform) (Azure, Terraform, Docker, GitHub Actions)
+- [GitHub Copilot Challenge for DevOps with Bicep](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-devops-bicep) (Azure, Bicep, Azure DevOps Pipelines)
+- [GitHub Copilot Challenge for DevOps with Terraform](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-devops-terraform) (Azure, Terraform, Docker, GitHub Actions)
 
 ### Data Engineers
 
