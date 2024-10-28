@@ -26,34 +26,34 @@ Happy coding! 💻✨
 
 ### Frontend Developers
 
-- [GitHub Copilot Lab React Weather App](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-weather-app-react) (React, Typescript, Javascript, CSS)
+- [GitHub Copilot Lab React Weather App](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-weather-app-react) (VS Code, React, Typescript, Javascript, CSS)
 
 ### Backend Developers
 
-- [GitHub Copilot Lab C# Console App](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-csharp-console) (C#, .NET)
-- [GitHub Copilot Lab Node Calculator](https://github.com/GitHub-Insight-ANZ-Lab/copilot-node-calculator) (Node.js)
-- [GitHub Copilot Challenge ASP.NET Minimal API](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-minimal-api-csharp) (C#, ASP.NET Core)
-- [GitHub Copilot Challenge Java Spring Boot](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-java-spring-boot) (Java, Spring Boot)
+- [GitHub Copilot Lab C# Console App](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-csharp-console) (VS Code, C#, .NET)
+- [GitHub Copilot Lab Node Calculator](https://github.com/GitHub-Insight-ANZ-Lab/copilot-node-calculator) (VS Code, Node.js)
+- [GitHub Copilot Challenge ASP.NET Minimal API](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-minimal-api-csharp) (VS Code, #, ASP.NET Core)
+- [GitHub Copilot Challenge Java Spring Boot](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-java-spring-boot) (VS Code, Java, Spring Boot)
 
 ### Full Stack Engineers
 
-- [SPA Music Store with GitHub Copilot](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-typescript) (Node.js Express, Next.js, TypeScript, HTML,
+- [SPA Music Store with GitHub Copilot](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-typescript) (VS Code, Node.js Express, Next.js, TypeScript, HTML,
   CSS)
-- [MVC Music Store with GitHub Copilot](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-csharp) (C#, ASP.NET Core MVC, HTML, CSS)
+- [MVC Music Store with GitHub Copilot](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-music-store-csharp) (Visual Studio 2022, C#, ASP.NET Core MVC, HTML, CSS)
 
 ### DevOps Engineers
 
-- [GitHub Copilot Challenge for DevOps Engineers using Bicep](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-devops-bicep) (Azure, Bicep, Azure DevOps Pipelines)
-- [GitHub Copilot Challenge for DevOps Engineers using Terraform](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-devops-terraform) (Azure, Terraform, Docker, GitHub Actions)
+- [GitHub Copilot Challenge for DevOps Engineers using Bicep](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-devops-bicep) (VS Code, Azure, Bicep, Azure DevOps Pipelines)
+- [GitHub Copilot Challenge for DevOps Engineers using Terraform](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-devops-terraform) (VS Code, Azure, Terraform, Docker, GitHub Actions)
 
 ### Data Engineers
 
-- [GitHub Copilot Challenge for Python Data Engineer](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-data-engineer-python) (Python, Jupyter Notebooks)
-- [GitHub Copilot Lab for SQL](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-sql) (SQL Database Development)
+- [GitHub Copilot Challenge for Python Data Engineer](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-data-engineer-python) (VS Code, Python, Jupyter Notebooks)
+- [GitHub Copilot Lab for SQL](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-sql) (VS Code, Azure Data Studio, SQL Database Development)
 
 ### Data Scientists
 
-- [GitHub Copilot Challenge for Python Data Scientist](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-data-scientist-python) (Python, Jupyter Notebooks)
-- [GitHub Copilot Lab in R](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-r) (R for Statistical Computing)
+- [GitHub Copilot Challenge for Python Data Scientist](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-data-scientist-python) (VS Code, Python, Jupyter Notebooks)
+- [GitHub Copilot Lab in R](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-r) (VS Code, R for Statistical Computing)
 
 ---
