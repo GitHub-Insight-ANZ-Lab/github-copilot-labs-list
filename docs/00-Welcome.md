@@ -49,7 +49,7 @@ Happy coding! 💻✨
 ### Data Engineers
 
 - [GitHub Copilot Challenge for Python Data Engineer](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-data-engineer-python) (Python, Jupyter Notebooks)
-- [GitHub Copilot Challenge for SQL](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-data-scientist-python) (SQL Database Development)
+- [GitHub Copilot Lab for SQL](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-sql) (SQL Database Development)
 
 ### Data Scientists
 
