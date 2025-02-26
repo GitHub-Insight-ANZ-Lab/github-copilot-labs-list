@@ -27,6 +27,7 @@ Happy coding! 💻✨
 ### Frontend Developers
 
 - [GitHub Copilot Lab React Weather App](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-weather-app-react) (VS Code, React, Typescript, Javascript, CSS)
+- [GitHub Copilot Lab Angular Home Gallery App](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-home-gallery-angular) (VS Code, Angular, Javascript, CSS)
 
 ### Backend Developers
 
