@@ -59,6 +59,6 @@ Happy coding! 💻✨
 
 ### Architect
 
-- [GitHub Copilot Lab for Architect](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-architect-mermaid-markdown) (C#, Markdown, Mermaid)
+- [GitHub Copilot Lab for Architect](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-architect-mermaid-markdown) (C#, Markdown, Mermaid, Enterprise Features)
 
 ---
