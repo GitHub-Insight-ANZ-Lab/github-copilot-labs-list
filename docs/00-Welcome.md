@@ -57,4 +57,8 @@ Happy coding! 💻✨
 - [GitHub Copilot Challenge for Python Data Scientist](https://github.com/GitHub-Insight-ANZ-Lab/copilot-challenge-data-scientist-python) (VS Code, Python, Jupyter Notebooks)
 - [GitHub Copilot Lab in R](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-r) (VS Code, R for Statistical Computing)
 
+### Architect
+
+- [GitHub Copilot Lab for Architect](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-architect-mermaid-markdown) (C#, Markdown, Mermaid, Enterprise Features)
+
 ---
