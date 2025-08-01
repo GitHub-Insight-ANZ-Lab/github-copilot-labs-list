@@ -61,4 +61,7 @@ Happy coding! 💻✨
 
 - [GitHub Copilot Lab for Architect](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-architect-mermaid-markdown) (C#, Markdown, Mermaid, Enterprise Features)
 
+### Additional Labs
+
+- [GitHub Copilot Agent MCP Server Lab](https://github.com/GitHub-Insight-ANZ-Lab/copilot-lab-mcp-server) (VS Code, Node.js, Express.js, Typescript)
 ---
